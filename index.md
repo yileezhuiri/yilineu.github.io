@@ -47,6 +47,18 @@ In the Sokoban and Maze, F-MCTSnet achieves state-of-the-art performance with im
 
 3.嵌入式技术。基于嵌入式平台和硬件电路设计，研究智能设备的相关技术。 
 
+## 个人技能
+1.掌握在Tensorflow和Pytorch框架下的神经网络构建，掌握在C++下的GPU加速。
+
+2.掌握ResNet，GoogLeNet，ShuffleNet，DenseNet，EfficientNet等图像分类网络的设计和编程。
+
+3.掌握LSTM，Transformer等网络在语音识别方面的应用。
+
+4.掌握Alpha系列算法，并详细分析Leela Zaero的C++代码。
+
+5.掌握在overleaf中编写latex格式论文的能力，并具备文献检索和引用的能力。
+
+
 ## 研究经历
 
 ### 1.基于迁移学习的青光眼多模态智能诊断研究
