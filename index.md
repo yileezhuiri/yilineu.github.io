@@ -48,9 +48,11 @@ In the Sokoban and Maze, F-MCTSnet achieves state-of-the-art performance with im
 3.嵌入式技术。基于嵌入式平台和硬件电路设计，研究智能设备的相关技术。 
 
 ## 个人技能
-1.掌握在Tensorflow和Pytorch框架下的神经网络构建，掌握在C++下的GPU加速。
+1.掌握在Tensorflow和Pytorch框架下的神经网络构建，掌握python和C++。
 
 2.掌握ResNet，GoogLeNet，ShuffleNet，DenseNet，EfficientNet等图像分类网络的设计和编程。
+
+3.掌握分割网络
 
 3.掌握LSTM，Transformer等网络在语音识别方面的应用。
 
