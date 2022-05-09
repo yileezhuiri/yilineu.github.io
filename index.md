@@ -1,4 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Yi Li's academic home page！
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>李一</h1>
+      <p><b>性别：男  年龄：21</b></p>
+      <p><b>东北大学信息科学与工程学院自动化专业</b></p>
+      <p><b>联系方式：18203563369（同微信）    邮箱：yilineu@163.com</b></p>
+      <p><b>辽宁省沈阳市和平区文化路三巷11号   邮编：110819</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
 
 You can use the [editor on GitHub](https://github.com/yileezhuiri/yilineu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
