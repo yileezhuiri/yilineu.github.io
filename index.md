@@ -70,8 +70,17 @@ Graphical Abstract
 
 
 #### 数据集示例
-<img src="https://github.com/yileezhuiri/yilineu.github.io/blob/gh-pages/img/" width="100%">  
+<img src="https://github.com/yileezhuiri/yilineu.github.io/blob/gh-pages/img/DATAsur.png" width="100%">  
 
+该数据库包含了青光眼患者的原始电子病志和医学影像数据。电子病历包含了人体年龄、性别、主诉、当前病史、既往病史、视力、眼压、各种专科检查和诊断等文本信息。
+医学影像数据由2758张图像组成。它包括五类标签，包括正常、原发性开角型青光眼、原发性闭角型青光眼、闭角型青光眼，继发性开角型青光眼，和继发性闭角型青光眼。在临床实践中遇到的所有青光眼疾病中，超过95%的疾病属于这五种疾病之一。所有数据均由六位 专业医生审核。值得注意的是，这些数据的构建是根据 遵循《赫尔辛基宣言》的原则。
+
+
+### 2.基于Alpha Zero的五子棋、Hex棋博弈研究
+
+### 3.基于MCTSnet的完美问题求解
+
+### 4.参与国防项目17X项目的申请
 
 
 
