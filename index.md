@@ -89,6 +89,12 @@ Graphical Abstract
 该数据库包含了青光眼患者的原始电子病志和医学影像数据。电子病历包含了人体年龄、性别、主诉、当前病史、既往病史、视力、眼压、各种专科检查和诊断等文本信息。
 医学影像数据由2758张图像组成。它包括五类标签，包括正常、原发性开角型青光眼、原发性闭角型青光眼、闭角型青光眼，继发性开角型青光眼，和继发性闭角型青光眼。在临床实践中遇到的所有青光眼疾病中，超过95%的疾病属于这五种疾病之一。所有数据均由六位 专业医生审核。值得注意的是，这些数据的构建是根据 遵循《赫尔辛基宣言》的原则。
 
+### 成果
+1.Y. Li, Y. Han, X.Zhao, Z.Li and Z.Guo, “MulTiNet: Multimodal Neural Networks for Glaucoma Based on Transfer Learning,”BioMedical Engineering OnLine（IF=2.905)
+
+2.Y.Han,Y.Li, Y.Zhong, Z.Li , Z.Guo and H.Zheng, “Multimodal database and multimodal neural network are all glaucoma diagnosis need.,”31st International Conference on Artificial Neural Networks(ICANN)
+
+3.[中国发明] 一种基于迁移学习的青光眼多模态智能识别方法  公开
 
 ### 2.基于Alpha Zero的五子棋、Hex棋博弈研究
 
@@ -97,7 +103,7 @@ Graphical Abstract
 
 Graphical Abstract
 
-
+<img src="https://github.com/yileezhuiri/yilineu.github.io/blob/gh-pages/img/GOMOKU.png" width="100%">  
 
 #### 项目经历
 使用pytorh框架编写神经网络框架，并在C++下编写MCTS的selection、expansion、simulation、backup四步骤，并使用多台NVIDIA-A100服务器进行训练，减少树搜索所用时间。首先self-play进行生数据，只保存当前最新模型，self-play数据直接由当前最新模型生成。随后使用self-play生成的数据训练PolicyNet，通过policynet和MCTS进行互博迭代更新参数。最后使用两个MCTS智能体互博训练出超越人类的五子棋和Hex棋。
@@ -105,6 +111,9 @@ Graphical Abstract
 一个有效的策略价值模型，需要在各种局面下都能比较准确的评估当前局面的优劣以及当前局面下各个action的相对优劣，要训练出这样的策略价值模型，就需要在self-play的过程中尽可能的覆盖到各种各样的局面。不断使用最新的模型来生成self-play数据可能在一定程度上有助于覆盖到更多的局面，但仅靠这么一点模型的差异是不够的，所以在强化学习算法中，特意设计的exploration的手段。
 
 ### 成果：作为队长，获得第十五届中国大学生计算机博弈大赛国家级一等奖
+
+
+
 
 
 
